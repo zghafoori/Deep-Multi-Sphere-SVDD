@@ -1,0 +1,2 @@
+This is the directory to save the results. 
+A summary of the results statistics (a csv file) is also saved in this directory named as given in the "info_file" variable.

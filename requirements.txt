@@ -9,7 +9,7 @@ lmdb==0.93
 matplotlib==2.0.0
 numexpr==2.6.2
 numpy==1.13.3
-opencv-python==3.3.0.9
+opencv-python==3.4.7.28
 packaging==16.8
 pandas==0.19.2
 picklable-itertools==0.1.1

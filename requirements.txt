@@ -8,7 +8,7 @@ Lasagne==0.2.dev1
 lmdb==0.93
 matplotlib==2.0.0
 numexpr==2.6.2
-numpy==1.13.3
+numpy==1.22.0
 opencv-python==3.3.0.9
 packaging==16.8
 pandas==0.19.2
